@@ -1,0 +1,124 @@
+/*   Tablet & Mobile Layout :768px  */
+@media only screen and (max-width:991px){
+  .container{
+    max-width: 730px;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  .slider_left{
+    margin-top: 0px;
+    margin-bottom: 50px;
+  }
+  .slider{
+    padding-left: 15px;
+  }
+  .services_top{
+    max-width: 600px;
+  }
+  .services_box2{
+    text-align: center;
+  }
+  .services_box1{
+    margin-bottom: 50px;
+  }
+  .project_content_right{
+    margin-top: 80px;
+  }
+  .map_section iframe{
+    width: 350px;
+  }
+  .contact_part{
+    margin-left: 0px;
+  }
+  .single_footer{
+    margin-top: 20px;
+  }
+  .services_box1{
+    margin-top: 0px;
+  }
+  .google_map_content{
+    display: none;
+  }
+  .text-animation h2{
+    font-size: 20px;
+  }
+  .our_vision_right,
+  .our_mishon_right{
+    padding: 50px 0px;
+    padding-left: 100px;
+  }
+  .single_about_teme:hover .single_about_btn p{
+    top: 93%;
+  }
+  .partnar_profil_box{
+    margin-bottom: 20px;
+  }
+  .shopcase_content_box,
+  .shopcase_content_box2{
+    margin-left: 0px;
+    padding: 20px 0px;
+  }
+  .shopcase_page_box2,
+  .shopcase_page_box{
+    padding: 20px 0px;
+  }
+  .no_padding{
+    padding: 20px 0px;
+  }
+  .services_detils_top{
+    width: 330px;
+    margin: auto;
+    margin-left: 0px;
+  }
+  .services_detils_top h2{
+    font-size: 30px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+  .height_about_details{
+    overflow: hidden;
+  }
+  .about_details_content{
+    margin-top: 60px;
+  }
+}
+/*   Mobile Layout :320px  */
+@media only screen and (max-width:767px){
+  .container{
+    max-width: 330px;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  .slider_left{
+    margin-top: 0px;
+    margin-bottom: 50px;
+  }
+  .slider{
+    padding-left: 5px;
+  }
+  .services_top{
+    max-width: 330px;
+  }
+  .services_box2{
+    text-align: center;
+  }
+  .services_box1{
+    margin-bottom: 50px;
+  }
+  .project_content_right{
+    margin-top: 0;
+  }
+  .map_section iframe{
+    width: 100%;
+    margin-bottom: 50px;
+  }
+  .contact_part{
+    margin-left: 0px;
+  }
+  .single_footer{
+    margin-bottom: 20px;
+  }
+  .project_content_right a{
+    display:block;
+  }
+}
